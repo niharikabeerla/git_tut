@@ -11,6 +11,3 @@ s=s+rem;
 r=(r*10)+rem;
 n=n/10;
 }
-System.out.println("Sum:"+s+" Reverse "+r);
-}
-}
